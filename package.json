@@ -78,8 +78,7 @@
     "yaml": "^2.3.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev" : "npx tailwindcss -i ./src/css/inport.css -o ./src/css/style.css --watch  "
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
